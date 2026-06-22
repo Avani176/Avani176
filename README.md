@@ -72,17 +72,18 @@ I am actively gaining hands-on repository experience through GSSoC 2026, shippin
 
 ### 🎯 2026 Roadmap
 
-- [x] Start Open Source Contributions
-- [x] Join GSSoC 2026
-- [ ] Complete 100 Days 100 Web Projects (Currently at 175+!)
-- [ ] Reach 500+ GitHub Contributions
-- [ ] Build Multiple Production-Level Applications
-- [ ] Crack Google Summer of Code (GSoC) 🚀
+* ✨ **Start Open Source Contributions**
+* 🚀 **Join GSSoC 2026**
+* 💯 **Complete 100 Days 100 Web Projects** (Currently at 175+!)
+* 📈 **Reach 500+ GitHub Contributions**
+* 🛠️ **Build Multiple Production-Level Applications**
+* 🌟 **Crack Google Summer of Code (GSoC)**
 
 ---
 
 ### 🤝 Let's Connect & Collaborate!
 
+* 💬 **Ask me about:** Frontend logic, game loops, or UI design engineering.
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/avani-shrivastava-625a90386/]
 * 🐙 **GitHub:** [@Avani176](https://github.com/Avani176)
 
